@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="#" target="_blank">
+    <a href="https://real-time-stocks-tracking-app.vercel.app" target="_blank">
       <img src="public/readme/hero.webp" alt="Project Banner">
     </a>
   <br />
